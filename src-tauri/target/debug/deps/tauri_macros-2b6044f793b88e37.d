@@ -1,0 +1,11 @@
+/Users/home/code-2024/Telemetry/dashboard/src-tauri/target/debug/deps/libtauri_macros-2b6044f793b88e37.dylib: /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/lib.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command/mod.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command/handler.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command/wrapper.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command_module.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/runtime.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/context.rs
+
+/Users/home/code-2024/Telemetry/dashboard/src-tauri/target/debug/deps/tauri_macros-2b6044f793b88e37.d: /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/lib.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command/mod.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command/handler.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command/wrapper.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command_module.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/runtime.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/context.rs
+
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/lib.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command/mod.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command/handler.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command/wrapper.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/command_module.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/runtime.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-macros-1.4.3/src/context.rs:

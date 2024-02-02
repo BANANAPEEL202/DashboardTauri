@@ -1,0 +1,12 @@
+/Users/home/code-2024/Telemetry/dashboard/src-tauri/target/release/deps/libdispatch-94dbc0f5391ec816.rmeta: /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/lib.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/ffi.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/group.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/queue.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/once.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/sem.rs
+
+/Users/home/code-2024/Telemetry/dashboard/src-tauri/target/release/deps/libdispatch-94dbc0f5391ec816.rlib: /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/lib.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/ffi.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/group.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/queue.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/once.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/sem.rs
+
+/Users/home/code-2024/Telemetry/dashboard/src-tauri/target/release/deps/dispatch-94dbc0f5391ec816.d: /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/lib.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/ffi.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/group.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/queue.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/once.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/sem.rs
+
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/lib.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/ffi.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/group.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/queue.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/once.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dispatch-0.2.0/src/sem.rs:
