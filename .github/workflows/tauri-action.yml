@@ -6,13 +6,7 @@ on: workflow_dispatch
 
 
 jobs:
-  install:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: pnpm/action-setup@v2
-        with:
-          version: 8
+  
 
   publish-tauri:
     permissions:
@@ -22,6 +16,7 @@ jobs:
       matrix:
         platform: [macos-latest, ubuntu-20.04, windows-latest]
 
+    
     runs-on: ${{ matrix.platform }}
     steps:
       - uses: actions/checkout@v4
