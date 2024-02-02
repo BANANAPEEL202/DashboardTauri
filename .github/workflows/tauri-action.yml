@@ -6,16 +6,14 @@ on: workflow_dispatch
 
 
 jobs:
-  build:
-      runs-on: ubuntu-latest
-      name: Build and Push
-  
-      steps:
-        - name: git-checkout
-          uses: actions/checkout@v3
-  
-        - name: pnpm-setup
-          uses: pnpm/action-setup@v2
+  install:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 8
+
   publish-tauri:
     permissions:
       contents: write
