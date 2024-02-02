@@ -1,0 +1,12 @@
+/Users/home/code-2024/Telemetry/dashboard/src-tauri/target/debug/deps/libstate-25b668f3640314de.rmeta: /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/lib.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/ident_hash.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/storage.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/init.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/shim.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/container.rs
+
+/Users/home/code-2024/Telemetry/dashboard/src-tauri/target/debug/deps/libstate-25b668f3640314de.rlib: /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/lib.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/ident_hash.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/storage.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/init.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/shim.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/container.rs
+
+/Users/home/code-2024/Telemetry/dashboard/src-tauri/target/debug/deps/state-25b668f3640314de.d: /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/lib.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/ident_hash.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/storage.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/init.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/shim.rs /Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/container.rs
+
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/lib.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/ident_hash.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/storage.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/init.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/shim.rs:
+/Users/home/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/container.rs:
